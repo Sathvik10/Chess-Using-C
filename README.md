@@ -4,3 +4,5 @@ For GUI openGl has been used which is easily approachable.
 This project uses only two level analysis and uses linear mathematical function for calculation which can replaced with more accurate exponential functions.
 To know about min-max algorithm -https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/.
 To improve your project refer-http://www.cs.cornell.edu/boom/2004sp/projectarch/chess/algorithms.html#board.
+
+!['Chess GUI'](./board.png)
